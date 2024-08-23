@@ -32,5 +32,26 @@ To get started with these notebooks, follow the steps below:
 - **Python 3.8+**: Make sure you have Python installed on your system.
 - **Jupyter Notebook or Jupyter Lab**: You can install Jupyter by running the following command:
 
+
+# Install the Jupyter Notebook package:
 ```bash
 pip install notebook
+```
+
+# Clone the repository:
+```bash
+git clone https://github.com/yourusername/python-tutorial-notebooks.git
+```
+
+
+# Navigate to the project directory:
+```bash
+cd python-tutorial-notebooks
+```
+
+
+# Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
