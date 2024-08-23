@@ -5,7 +5,7 @@ This repository contains a series of Jupyter notebooks designed to teach you Pyt
 
 ## Table of Contents
 
-1. [Basics of Python](Notebooks\01_basics_of_python.ipynb)
+1. [Basics of Python](Notebooks/01_basics_of_python.ipynb)
 2. [Data Structures]()
 3. [Functions]()
 4. [Object Oriented Programming]()
