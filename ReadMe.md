@@ -40,7 +40,7 @@ pip install notebook
 
 # Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-tutorial-notebooks.git
+git clone https://github.com/ahill3030/python_tutorial.git
 ```
 
 
