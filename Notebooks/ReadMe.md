@@ -1,6 +1,7 @@
 # Python Tutorial Notebooks
 
-Welcome to the **Python Tutorial Notebooks** repository! This repository contains a series of Jupyter notebooks designed to teach you Python programming from the basics to more advanced topics.
+Welcome to the **Python Tutorial Notebooks** repository! 
+This repository contains a series of Jupyter notebooks designed to teach you Python programming from the basics to more advanced topics.
 
 ## Table of Contents
 
